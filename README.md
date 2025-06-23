@@ -638,7 +638,7 @@
             <p>Ready to discuss your next business analysis project? Let's connect and explore how we can drive results together.</p>
             <form class="contact-form">
                 <div class="form-group">
-                    <input type="text" placeholder="Your Name" required>
+                    <input type="text" placeholder="Tomi Sam-Oladipo" required>
                     <input type="email" placeholder="Your Email" required>
                 </div>
                 <input type="text" placeholder="Subject" required>
