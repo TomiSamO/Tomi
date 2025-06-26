@@ -474,7 +474,9 @@
     <!-- Navigation -->
     <nav id="navbar">
         <div class="nav-container">
-            <div class="logo">BA Portfolio</div>
+            <div class="logo"> Hi there,
+                My name is ****Tomi Sam-Oladipo****.
+                Welome to My Portfolio</div>
             <ul class="nav-links">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#skills">Skills</a></li>
